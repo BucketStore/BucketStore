@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome To Bucket Store Git Repository!
+* We make an e-commerce web service called CreasMall and its admin system
+* https://www.creasmall.com
+---
 
-<!--
-**BucketStore/BucketStore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Stacks
 
-Here are some ideas to get you started:
+### Frontend
+* TypeScript
+* React (for admin)
+* NextJS (for mall)
+* emotionJS
+* MUI
+* GraphQL
+* Recoil
+* Storybook
+* @testing-library and Jest
+* Jenkins for CI/CD
+* AWS S3 / EC2 and CloudFront & Route 53 for distribute
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+
+* Mall Backend
+  * SpringBoot
+
+* Admin Backend
+  * NestJS
